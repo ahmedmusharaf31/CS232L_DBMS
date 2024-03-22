@@ -40,7 +40,7 @@ We encourage contributions from the community to make this repository more valua
 4. Push your changes to your forked repository (`git push origin feature/new-content`).
 5. Create a pull request detailing your changes.
 
-Together, let's make learning DBMS with PostgreSQL and SQL an enriching experience for everyone!
+Together, let's make learning DBMS with PostgreSQL an enriching experience for everyone!
 
 ## License 📝
 
