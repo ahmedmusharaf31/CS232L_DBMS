@@ -1,6 +1,6 @@
 # CS232L_DBMS Repository 📚
 
-Welcome to the CS232L_DBMS Repository! This repository is dedicated to providing comprehensive resources for mastering Database Management Systems (DBMS) concepts, focusing particularly on PostgreSQL and SQL fundamentals.
+Welcome to the CS232L_DBMS Repository! This repository is dedicated to providing comprehensive resources for mastering Database Management Systems (DBMS) concepts, focusing particularly on PostgreSQL fundamentals.
 
 ## Table of Contents 📋
 
